@@ -1,3 +1,4 @@
+#falta añadirle la name tuple y usa JSON
 from collections import deque
 
 # Clase base de ítems
