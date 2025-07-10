@@ -5,4 +5,4 @@ Se tomó el ejercicio del restaurante y se le añadieron colas tipo FIFO, se def
 
 
 
-CONCLUSION: Perdí mi parcial de estatica por intentar enteder y hacer esto, no diré nada mas.
+CONCLUSION: Perdí mi parcial de estatica por intentar entender y hacer esto, no diré nada mas.
